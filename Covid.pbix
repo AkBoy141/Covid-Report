@@ -1,12 +1,15 @@
 Greetings,
 
-I am pleased to present a comprehensive COVID-19 report project developed using Power BI. Despite being my inaugural project, I successfully completed it within a span of four hours.
+I am pleased to present a comprehensive COVID-19 report project developed using Power BI. 
+Despite being my inaugural project, I successfully completed it within a span of four hours. The project commenced with the upload of the "COVID-19 dataset" into 
+Power BI, followed by the creation of a pie chart illustrating COVID cases and outcomes categorized by WHO regions. 
+Subsequently, I addressed various queries by generating bar charts, hierarchical representations (utilizing weekly moving averages), and integrating Google Maps functionality. 
+For the hierarchical table, I sought assistance from online resources, particularly a tutorial on creating weekly moving averages in Power BI. 
+Upon completing the charting tasks, I focused on refining the project's aesthetics, such as modifying the background, theme, emphasizing titles, adjusting axis styling, 
+implementing transparency, and selecting distinct color schemes for the pie chart slices.
 
-The project commenced with the upload of the "COVID-19 dataset" into Power BI, followed by the creation of a pie chart illustrating COVID cases and outcomes categorized by WHO regions. Subsequently, I addressed various queries by generating bar charts, hierarchical representations (utilizing weekly moving averages), and integrating Google Maps functionality. For the hierarchical table, I sought assistance from online resources, particularly a tutorial on creating weekly moving averages in Power BI.
-
-Upon completing the charting tasks, I focused on refining the project's aesthetics, such as modifying the background, theme, emphasizing titles, adjusting axis styling, implementing transparency, and selecting distinct color schemes for the pie chart slices.
-
-As the project neared completion, I encountered a challenge regarding sharing via GitHub, as I lacked a Power BI membership and any associated business or student credentials. Consequently, I opted to save the project on my OneDrive cloud storage. Following the save, I located the file and proceeded to upload it.
+As the project neared completion, I encountered a challenge regarding sharing via GitHub, as I lacked a Power BI membership and any associated business or student credentials. 
+Consequently, I opted to save the project on my OneDrive cloud storage. Following the save, I located the file and proceeded to upload it.
 
 Thank you.
 
